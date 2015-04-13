@@ -1,5 +1,5 @@
  h1{
-                font-family: "Courier New";
+                font-family: "Times New Roman";
                 font-weight: Bold;
                 font-size: 1.5cm;
                 text-decoration: underline;
@@ -7,22 +7,27 @@
             }
 figcaption{
 	width:300px;
-font-family: "Courier New";
+font-family: "Times New Roman";
                 font-weight: normal;
-                font-size: .5cm;
+                font-size: 20pt;
 }
 
-p{ font-family: "Courier New";
+p{ font-family: "Times New Roman";
                 font-weight: normal;
-                font-size: .5cm;
+                font-size: 20pt;
 }
-a{"Courier New";
+a{"Times New Roman";
                 font-weight: normal;
-                font-size: .5cm;
+                font-size: 20pt;
 }
 
-p{ font-family: "Courier New";
+p{ font-family: "Times New Roman";
                 font-weight: normal;
-                font-size: .5cm;
+                font-size: 20pt;
 
+}
+
+ol{font-family: "Times New Roman";
+                font-weight: normal;
+                font-size: 20pt;
 }
